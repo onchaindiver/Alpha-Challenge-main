@@ -1,3 +1,0 @@
-total migrations 44
-most AgsutKogMXGX5gLk5GJFhf9uExKTuVf28MUoRd1Tpump slots to migrate 119678 start 287267603 finish 287387281
-least 3nES8WTRwf85kGtFyXZswLZHbx8xsiAi2qZoJBS5pump slots to migrate 168 start 287381572 finish 287381740
